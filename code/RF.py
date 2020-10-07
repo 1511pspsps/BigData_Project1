@@ -5,6 +5,8 @@ import numpy as np
 from sklearn.metrics import accuracy_score
 
 # Import the data
+
+# You should check the path before run the code
 data = pd.read_table('F:/各个学科/工业大数据/lab/project1/data/new_data.csv', sep=',')
 train = np.array(data)
 data = pd.read_table('F:/各个学科/工业大数据/lab/project1/data/test_set.csv', sep=',')
