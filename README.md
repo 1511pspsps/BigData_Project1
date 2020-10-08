@@ -1,5 +1,7 @@
 # BigData_Project1
-_Shien-Ming Wu School of Intelligent Engineering_
+_Author: Pan Shuang_
+
+_Shien-Ming Wu School of Intelligent Engineering_    
 _South China University of Technology, Guangzhou, China_
 
 
