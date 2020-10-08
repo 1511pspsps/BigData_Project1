@@ -7,7 +7,7 @@ _South China University of Technology, Guangzhou, China_
 
 This is the project 1 of the lesson Big Data and its Application.
 
-Attention: All the code is written in _Python3_. If you want to run the code, make sure that you have set the right path in the _Import Data_ part of each code.
+Attention: All the code is written in _Python3_. If you want to run the code, make sure that you have set the right path in the _Import Data_ part of each code, , is more likely to win the game.
 
 ## Brief Introduction
 LoL is one of the most popular online game currently around. It is a 5 vs. 5 competitive game. The target of the game is to destroy the base of the enemy. The team which grabs more resources, such as Dragon and Baron. 
